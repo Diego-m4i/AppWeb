@@ -7,8 +7,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\WebApp.models\WebApp.models.csproj" />
-      <ProjectReference Include="..\WebApp\WebApp.csproj" />
+      <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.0" />
     </ItemGroup>
 
 </Project>

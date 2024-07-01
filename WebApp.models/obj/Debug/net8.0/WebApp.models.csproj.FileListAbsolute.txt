@@ -1,0 +1,6 @@
+C:\Users\marin\RiderProjects\MarinangeliDiego119071\WebApp.models\obj\Debug\net8.0\WebApp.models.csproj.AssemblyReference.cache
+C:\Users\marin\RiderProjects\MarinangeliDiego119071\WebApp.models\obj\Debug\net8.0\WebApp.models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\RiderProjects\MarinangeliDiego119071\WebApp.models\obj\Debug\net8.0\WebApp.models.AssemblyInfoInputs.cache
+C:\Users\marin\RiderProjects\MarinangeliDiego119071\WebApp.models\obj\Debug\net8.0\WebApp.models.AssemblyInfo.cs
+C:\Users\marin\RiderProjects\MarinangeliDiego119071\WebApp.models\obj\Debug\net8.0\WebApp.models.csproj.CoreCompileInputs.cache
+C:\Users\marin\RiderProjects\MarinangeliDiego119071\WebApp.models\obj\Debug\net8.0\WebApp.models.sourcelink.json
