@@ -1,12 +1,14 @@
-﻿using WebApp.models;
+﻿using Microsoft.EntityFrameworkCore;
+using WebApp.data;
+using WebApp.models;
 
 namespace WebApp.services;
 
 public class OrderService
 {
-    private readonly AppDbContext _dbContext;
+    private readonly AppDb _dbContext;
 
-    public OrderService(AppDbContext dbContext)
+    public OrderService(AppDb dbContext)
     {
         _dbContext = dbContext;
     }

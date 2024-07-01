@@ -1,12 +1,14 @@
-﻿using WebApp.models;
+﻿using Microsoft.EntityFrameworkCore;
+using WebApp.data;
+using WebApp.models;
 
 namespace WebApp.Services
 {
     public class CartService
     {
-        private readonly AppDbContext _dbContext;
+        private readonly AppDb _dbContext;
 
-        public CartService(AppDbContext dbContext)
+        public CartService(AppDb dbContext)
         {
             _dbContext = dbContext;
         }

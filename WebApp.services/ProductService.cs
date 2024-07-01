@@ -1,12 +1,14 @@
-﻿using WebApp.models;
+﻿using Microsoft.EntityFrameworkCore;
+using WebApp.data;
+using WebApp.models;
 
 namespace WebApp.services;
 
 public class ProductService
 {
-    private readonly AppDbContext _dbContext;
+    private readonly AppDb _dbContext;
 
-    public ProductService(AppDbContext dbContext)
+    public ProductService(AppDb dbContext)
     {
         _dbContext = dbContext;
     }

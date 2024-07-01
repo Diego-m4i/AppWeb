@@ -317,33 +317,6 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "WebApp/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/WebApp.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/WebApp.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
-      },
-      "WebApp.data/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.0",
-          "WebApp.models": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/WebApp.data.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/WebApp.data.dll": {}
-        }
-      },
       "WebApp.models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -844,16 +817,6 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "WebApp/1.0.0": {
-      "type": "project",
-      "path": "../WebApp/WebApp.csproj",
-      "msbuildProject": "../WebApp/WebApp.csproj"
-    },
-    "WebApp.data/1.0.0": {
-      "type": "project",
-      "path": "../WebApp.data/WebApp.data.csproj",
-      "msbuildProject": "../WebApp.data/WebApp.data.csproj"
-    },
     "WebApp.models/1.0.0": {
       "type": "project",
       "path": "../WebApp.models/WebApp.models.csproj",
@@ -862,8 +825,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "WebApp >= 1.0.0",
-      "WebApp.data >= 1.0.0",
+      "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 8.0.0",
       "WebApp.models >= 1.0.0"
     ]
   },
@@ -874,11 +836,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marin\\RiderProjects\\MarinangeliDiego119071\\WebApp.services\\WebApp.services.csproj",
-      "projectName": "WebApp.services",
-      "projectPath": "C:\\Users\\marin\\RiderProjects\\MarinangeliDiego119071\\WebApp.services\\WebApp.services.csproj",
+      "projectUniqueName": "C:\\Users\\marin\\RiderProjects\\MarinangeliDiego119071\\WebApp.data\\WebApp.data.csproj",
+      "projectName": "WebApp.data",
+      "projectPath": "C:\\Users\\marin\\RiderProjects\\MarinangeliDiego119071\\WebApp.data\\WebApp.data.csproj",
       "packagesPath": "C:\\Users\\marin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marin\\RiderProjects\\MarinangeliDiego119071\\WebApp.services\\obj\\",
+      "outputPath": "C:\\Users\\marin\\RiderProjects\\MarinangeliDiego119071\\WebApp.data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -900,14 +862,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\marin\\RiderProjects\\MarinangeliDiego119071\\WebApp.data\\WebApp.data.csproj": {
-              "projectPath": "C:\\Users\\marin\\RiderProjects\\MarinangeliDiego119071\\WebApp.data\\WebApp.data.csproj"
-            },
             "C:\\Users\\marin\\RiderProjects\\MarinangeliDiego119071\\WebApp.models\\WebApp.models.csproj": {
               "projectPath": "C:\\Users\\marin\\RiderProjects\\MarinangeliDiego119071\\WebApp.models\\WebApp.models.csproj"
-            },
-            "C:\\Users\\marin\\RiderProjects\\MarinangeliDiego119071\\WebApp\\WebApp.csproj": {
-              "projectPath": "C:\\Users\\marin\\RiderProjects\\MarinangeliDiego119071\\WebApp\\WebApp.csproj"
             }
           }
         }
@@ -921,6 +877,12 @@
     "frameworks": {
       "net8.0": {
         "targetAlias": "net8.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[8.0.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
