@@ -1,0 +1,16 @@
+C:\Users\marin\RiderProjects\MarinangeliDiego119071\WebApp.data\bin\Debug\net8.0\WebApp.data.deps.json
+C:\Users\marin\RiderProjects\MarinangeliDiego119071\WebApp.data\bin\Debug\net8.0\WebApp.data.dll
+C:\Users\marin\RiderProjects\MarinangeliDiego119071\WebApp.data\bin\Debug\net8.0\WebApp.data.pdb
+C:\Users\marin\RiderProjects\MarinangeliDiego119071\WebApp.data\bin\Debug\net8.0\WebApp.models.dll
+C:\Users\marin\RiderProjects\MarinangeliDiego119071\WebApp.data\bin\Debug\net8.0\WebApp.models.pdb
+C:\Users\marin\RiderProjects\MarinangeliDiego119071\WebApp.data\obj\Debug\net8.0\WebApp.data.csproj.AssemblyReference.cache
+C:\Users\marin\RiderProjects\MarinangeliDiego119071\WebApp.data\obj\Debug\net8.0\WebApp.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\RiderProjects\MarinangeliDiego119071\WebApp.data\obj\Debug\net8.0\WebApp.data.AssemblyInfoInputs.cache
+C:\Users\marin\RiderProjects\MarinangeliDiego119071\WebApp.data\obj\Debug\net8.0\WebApp.data.AssemblyInfo.cs
+C:\Users\marin\RiderProjects\MarinangeliDiego119071\WebApp.data\obj\Debug\net8.0\WebApp.data.csproj.CoreCompileInputs.cache
+C:\Users\marin\RiderProjects\MarinangeliDiego119071\WebApp.data\obj\Debug\net8.0\WebApp.data.sourcelink.json
+C:\Users\marin\RiderProjects\MarinangeliDiego119071\WebApp.data\obj\Debug\net8.0\WebApp.data.csproj.CopyComplete
+C:\Users\marin\RiderProjects\MarinangeliDiego119071\WebApp.data\obj\Debug\net8.0\WebApp.data.dll
+C:\Users\marin\RiderProjects\MarinangeliDiego119071\WebApp.data\obj\Debug\net8.0\refint\WebApp.data.dll
+C:\Users\marin\RiderProjects\MarinangeliDiego119071\WebApp.data\obj\Debug\net8.0\WebApp.data.pdb
+C:\Users\marin\RiderProjects\MarinangeliDiego119071\WebApp.data\obj\Debug\net8.0\ref\WebApp.data.dll

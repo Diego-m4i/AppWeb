@@ -4,3 +4,10 @@ C:\Users\marin\RiderProjects\MarinangeliDiego119071\WebApp.models\obj\Debug\net8
 C:\Users\marin\RiderProjects\MarinangeliDiego119071\WebApp.models\obj\Debug\net8.0\WebApp.models.AssemblyInfo.cs
 C:\Users\marin\RiderProjects\MarinangeliDiego119071\WebApp.models\obj\Debug\net8.0\WebApp.models.csproj.CoreCompileInputs.cache
 C:\Users\marin\RiderProjects\MarinangeliDiego119071\WebApp.models\obj\Debug\net8.0\WebApp.models.sourcelink.json
+C:\Users\marin\RiderProjects\MarinangeliDiego119071\WebApp.models\bin\Debug\net8.0\WebApp.models.deps.json
+C:\Users\marin\RiderProjects\MarinangeliDiego119071\WebApp.models\bin\Debug\net8.0\WebApp.models.dll
+C:\Users\marin\RiderProjects\MarinangeliDiego119071\WebApp.models\bin\Debug\net8.0\WebApp.models.pdb
+C:\Users\marin\RiderProjects\MarinangeliDiego119071\WebApp.models\obj\Debug\net8.0\WebApp.models.dll
+C:\Users\marin\RiderProjects\MarinangeliDiego119071\WebApp.models\obj\Debug\net8.0\refint\WebApp.models.dll
+C:\Users\marin\RiderProjects\MarinangeliDiego119071\WebApp.models\obj\Debug\net8.0\WebApp.models.pdb
+C:\Users\marin\RiderProjects\MarinangeliDiego119071\WebApp.models\obj\Debug\net8.0\ref\WebApp.models.dll
